@@ -1,0 +1,128 @@
+{
+  "item": {
+    "id": "com.hachimi.watch.thatsnotmyneighbor",
+    "restype": "quick_app",
+    "name": "那不是我的邻居",
+    "description": "熟悉的面孔，未必是真正的邻居。\n《那不是我的邻居》保留原作的诡异画风、人物设定与身份核验玩法，带来原汁原味的门卫生存体验。\n核对证件、翻查档案、拨通电话，从细微破绽中识破伪人。放行，还是拉响警报、呼叫 D.D.D.？每次开门都是一次冒险！",
+    "preview": [
+      "media/00-collage.png",
+      "media/01-menu.png",
+      "media/02-modes.png",
+      "media/03-office-intro.png",
+      "media/04-office.png",
+      "media/05-identity.png",
+      "media/06-archive.png",
+      "media/07-resident-file.png",
+      "media/08-dial.png",
+      "media/09-today-list.png",
+      "media/10-checklist.png",
+      "media/11-ddd-alarm.png"
+    ],
+    "icon": "media/icon-round.png",
+    "cover": "media/tnmn-cover-3x2-v2.jpg",
+    "author": [
+      {
+        "name": "easejun",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://nb.easejun.cn/",
+      "icon": "globe"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.1.0",
+      "file_name": "downloads/com.hachimi.watch.thatsnotmyneighbor.release.1.1.0.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1. 优化内存管理、工具页切换与检查清单操作，减少重复加载和内存开销。\n2. 改善小米手环 9、10、11 的证件、档案、名单与菜单显示，扩大证件阅读区域。"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.1.0",
+      "file_name": "downloads/com.hachimi.watch.thatsnotmyneighbor.release.1.1.0.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1. 优化内存管理、工具页切换与检查清单操作，减少重复加载和内存开销。\n2. 改善小米手环 9、10、11 的证件、档案、名单与菜单显示，扩大证件阅读区域。"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.1.0",
+      "file_name": "downloads/com.hachimi.watch.thatsnotmyneighbor.release.1.1.0.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1. 优化内存管理、工具页切换与检查清单操作，减少重复加载和内存开销。\n2. 改善小米手环 9、10、11 的证件、档案、名单与菜单显示，扩大证件阅读区域。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.1.0",
+      "file_name": "downloads/com.hachimi.watch.thatsnotmyneighbor.release.1.1.0.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1. 优化内存管理、工具页切换与检查清单操作，减少重复加载和内存开销。\n2. 改善小米手环 9、10、11 的证件、档案、名单与菜单显示，扩大证件阅读区域。"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.1.0",
+      "file_name": "downloads/com.hachimi.watch.thatsnotmyneighbor.release.1.1.0.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1. 优化内存管理、工具页切换与检查清单操作，减少重复加载和内存开销。\n2. 改善小米手环 9、10、11 的证件、档案、名单与菜单显示，扩大证件阅读区域。"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.1.0",
+      "file_name": "downloads/com.hachimi.watch.thatsnotmyneighbor.release.1.1.0.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1. 优化内存管理、工具页切换与检查清单操作，减少重复加载和内存开销。\n2. 改善小米手环 9、10、11 的证件、档案、名单与菜单显示，扩大证件阅读区域。"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.1.0",
+      "file_name": "downloads/com.hachimi.watch.thatsnotmyneighbor.release.1.1.0.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1. 优化内存管理、工具页切换与检查清单操作，减少重复加载和内存开销。\n2. 改善小米手环 9、10、11 的证件、档案、名单与菜单显示，扩大证件阅读区域。"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.1.0",
+      "file_name": "downloads/com.hachimi.watch.thatsnotmyneighbor.release.1.1.0.rpk",
+      "versionCode": 110,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "1. 优化内存管理、工具页切换与检查清单操作，减少重复加载和内存开销。\n2. 改善小米手环 9、10、11 的证件、档案、名单与菜单显示，扩大证件阅读区域。"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
